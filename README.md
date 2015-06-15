@@ -25,9 +25,10 @@ how the class will go, how to use chat, microphone, screen share, questions...
 
 #### 2. Json parsing practice (20~30 mins?)
 
-[]()
+[clone this](https://github.com/lukesterlee/JsonParsingPractice)
+WATCH : this is IntelliJ, not Android Studio
 
-#### 3. Picasso library
+#### 3. Picasso library (5 mins)
 
 [Picasso](http://square.github.io/picasso/)
 
