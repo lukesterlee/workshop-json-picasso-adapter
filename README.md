@@ -19,7 +19,7 @@ how the class will go, how to use chat, microphone, screen share, questions...
 1. We can parse json string.
 2. We can use Picasso library for image loading and downloading.
 3. We can create our own custom adapter.
-4. We can use AsyncTask technic.
+4. We can use AsyncTask technique.
 5. We can install [Telegram](https://telegram.org/) :)
 
 
