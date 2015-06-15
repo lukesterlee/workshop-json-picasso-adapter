@@ -8,7 +8,13 @@ Host by : Luke Lee
 
 Study Topics : JSON parsing, Picasso library, Custom Adapter
 
-#### 0. Objectives (5 mins)
+#### 0. Code of Conduct (5 mins)
+
+Instruction to Google Hangout : 
+
+how the class will go, how to use chat, microphone, screen share, questions...
+
+#### 1. Objectives (5 mins)
 
 1. We can parse json string.
 2. We can use Picasso library for image loading and downloading.
@@ -16,11 +22,6 @@ Study Topics : JSON parsing, Picasso library, Custom Adapter
 4. We can use AsyncTask technic.
 5. We can install [Telegram](https://telegram.org/) :)
 
-#### 1. Code of Conduct (5 mins)
-
-Instruction to Google Hangout : 
-
-how the class will go, how to use chat, microphone, screen share...
 
 #### 2. Json parsing practice
 
