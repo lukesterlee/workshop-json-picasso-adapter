@@ -23,7 +23,7 @@ how the class will go, how to use chat, microphone, screen share, questions...
 5. We can install [Telegram](https://telegram.org/) :)
 
 
-#### 2. Json parsing practice
+#### 2. Json parsing practice (20~30 mins?)
 
 []()
 
