@@ -22,7 +22,7 @@ Study Topics : JSON parsing, Picasso library, Custom Adapter
 
 #### 2. Picasso library
 
-[]()
+[Picasso](http://square.github.io/picasso/)
 
 #### 3. Custom Adapter
 
