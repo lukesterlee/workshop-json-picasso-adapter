@@ -38,7 +38,7 @@ WATCH : this is IntelliJ, not Android Studio
 
 #### 4. Custom Adapter
 
-[]()
+[convertView](https://youtu.be/-VPM6ICgCk8)
 
 #### 5. AsyncTask practice (exercise from last Tuesday)
 
