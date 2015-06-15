@@ -1,15 +1,15 @@
 # workshop-json-picasso-adapter
 C4Q Access Code 2.1 KitKat Engineering Pod Workshop : JSON parsing, Picasso library, Custom Adapter
 
-#### Objectives
+#### 0. Objectives
 
-#### Json parsing practice
+#### 1. Json parsing practice
 
-#### Picasso library
+#### 2. Picasso library
 
-#### Custom Adapter
+#### 3. Custom Adapter
 
-#### AsyncTask practice (exercise from last Tuesday)
+#### 4. AsyncTask practice (exercise from last Tuesday)
 
-#### Superhero practice (exercise from last Thursday)
+#### 5. Superhero practice (exercise from last Thursday)
 
