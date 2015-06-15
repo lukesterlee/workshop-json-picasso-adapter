@@ -18,7 +18,9 @@ Study Topics : JSON parsing, Picasso library, Custom Adapter
 
 #### 1. Code of Conduct (5 mins)
 
-Instruction to Google Hangout
+Instruction to Google Hangout : 
+
+how the class will go, how to use chat, microphone, screen share...
 
 #### 2. Json parsing practice
 
