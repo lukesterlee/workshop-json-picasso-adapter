@@ -44,6 +44,8 @@ WATCH : this is IntelliJ, not Android Studio
 
 [clone this](https://github.com/lukesterlee/AsyncTaskPractice)
 
+How it works : The user clicks button "Load" then get the latest 20 images from Flickr and display in GridView.
+
 #### 6. Superhero practice (exercise from last Thursday)
 
 [clone this](https://github.com/lukesterlee/SuperheroPractice)
