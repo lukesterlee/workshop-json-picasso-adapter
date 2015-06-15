@@ -1,10 +1,12 @@
-# workshop-json-picasso-adapter
+# C4Q Access Code 2.1 KitKat Engineering Pod Workshop
 
 Date : June 15th, 2015, 7:00 PM EST
 
 Place : Google Hangout
 
-C4Q Access Code 2.1 KitKat Engineering Pod Workshop : JSON parsing, Picasso library, Custom Adapter
+Host by : Luke Lee
+
+Study Topics : JSON parsing, Picasso library, Custom Adapter
 
 #### 0. Objectives
 
