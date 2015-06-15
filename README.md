@@ -12,7 +12,7 @@ Study Topics : JSON parsing, Picasso library, Custom Adapter
 
 Instruction to Google Hangout : 
 
-how the class will go, how to use chat, microphone, screen share, questions...
+how the class will go, pomodoro technique, how to use chat, microphone, screen share, questions...
 
 #### 1. Objectives (5 mins)
 
