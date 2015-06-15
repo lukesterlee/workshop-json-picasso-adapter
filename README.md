@@ -8,7 +8,7 @@ Host by : Luke Lee
 
 Study Topics : JSON parsing, Picasso library, Custom Adapter
 
-#### 0. Objectives
+#### 0. Objectives (5 mins)
 
 1. We can parse json string.
 2. We can use Picasso library for image loading and downloading.
@@ -16,22 +16,26 @@ Study Topics : JSON parsing, Picasso library, Custom Adapter
 4. We can use AsyncTask technic.
 5. We can install [Telegram](https://telegram.org/) :)
 
-#### 1. Json parsing practice
+#### 1. Code of Conduct (5 mins)
+
+Instruction to Google Hangout
+
+#### 2. Json parsing practice
 
 []()
 
-#### 2. Picasso library
+#### 3. Picasso library
 
 [Picasso](http://square.github.io/picasso/)
 
-#### 3. Custom Adapter
+#### 4. Custom Adapter
 
 []()
 
-#### 4. AsyncTask practice (exercise from last Tuesday)
+#### 5. AsyncTask practice (exercise from last Tuesday)
 
 [clone this](https://github.com/lukesterlee/AsyncTaskPractice)
 
-#### 5. Superhero practice (exercise from last Thursday)
+#### 6. Superhero practice (exercise from last Thursday)
 
 [clone this](https://github.com/lukesterlee/SuperheroPractice)
