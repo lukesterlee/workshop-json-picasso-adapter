@@ -23,6 +23,9 @@ how the class will go, how to use chat, microphone, screen share, questions...
 5. We can install [Telegram](https://telegram.org/) :)
 
 
+WHAT WE ARE NOT COVERING TODAY : Threads, Loopers, Handlers, OAuth, IntentService, Notification
+
+
 #### 2. Json parsing practice (20~30 mins?)
 
 [clone this](https://github.com/lukesterlee/JsonParsingPractice)
