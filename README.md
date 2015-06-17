@@ -38,6 +38,8 @@ WATCH : this is IntelliJ, not Android Studio
 
 #### 4. Custom Adapter
 
+[What is Adapter?](https://www.dropbox.com/s/phvrwa24ny8euqd/adapter.JPG?dl=0)
+
 [convertView](https://youtu.be/-VPM6ICgCk8)
 
 #### 5. AsyncTask practice (exercise from last Tuesday)
