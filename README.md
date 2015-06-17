@@ -46,6 +46,10 @@ WATCH : this is IntelliJ, not Android Studio
 
 How it works : The user clicks button "Load" then get the latest 20 images from Flickr and display in GridView.
 
+DON'T FORGET : 
+
+<uses-permission android:name="android.permission.INTERNET"/>
+
 #### 6. Superhero practice (exercise from last Thursday)
 
 [clone this](https://github.com/lukesterlee/SuperheroPractice)
